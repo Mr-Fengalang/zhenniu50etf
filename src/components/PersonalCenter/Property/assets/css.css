@@ -1,0 +1,741 @@
+.info{
+	height: 179px;
+    background-color: #192234;
+    padding: 47px 0 53px 110px
+}
+.customerCapital p{
+    font-family: PingFang SC;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 22px;
+	letter-spacing: 0px;
+	color: rgba(255, 255, 255, 0.8);
+}
+.customerCapital .infomoney{
+    font-family: Segoe UI;
+	font-size: 35px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 47px;
+	letter-spacing: 0px;
+	color: #ff4a4a;
+}
+.customerCapital{
+    float: left;
+    width: 206px;
+    margin-right: 7%;
+}
+.Property.w80{
+	width: 83%;
+	
+}
+.Cztxbox a{
+	width: 150px;
+	height: 35px;
+	border-radius: 4px;
+	text-decoration: none;
+	display: inline-block;
+	line-height: 35px;
+	text-align: center;
+	margin-right: 33px;
+}
+.customerCapital.cztx{
+	width: 366px;
+}
+.Cztxbox .cz{
+	background: #ff4a4a;
+	color: #fff;
+}
+.Cztxbox .tx{
+	border: solid 1px #ff4a4a;
+	color: #ff4a4a;
+}
+.Cztxbox {
+	padding-top: 26px
+}
+.zjmx{
+	margin: 4px 0 
+}
+.Property .infotitle p{
+	border-bottom: 2px solid #ff4a4a
+}
+.payType{
+	margin: 0 auto;
+}
+.czinfobox .ant-select.ant-select-enabled{
+	width: 338px;
+}
+.Property .ant-select-selection:hover{
+	border-color: #2d3748
+}
+.Property .ant-select-focused .ant-select-selection,.Property .ant-select-selection:focus,.Property .ant-select-selection:active{
+	border-color: #2d3748;
+    box-shadow:none
+}
+
+.czinfobox{
+	background: #192234;
+	margin-top: 4px;
+	padding: 54px 0 
+}
+.w450{
+	width: 476px;
+	margin: 0 auto
+}
+.czinfobox .ant-select-selection {
+	background: #ffffff14;
+    border: none;
+	border-top: solid 1px #2d3748;
+	border-radius: 0;
+	height: 35px;
+}
+.ant-select-selection__rendered{
+	height: 35px;
+}
+
+.w100{
+	width: 120px;
+	display: inline-block;
+	font-family: Segoe UI;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 35px;
+	letter-spacing: 0px;
+	color: #9a9a9a;
+	text-align: right
+}
+.w450 .ant-select-arrow{
+	color: #fff
+}
+.rechargeAmount{
+	background-color: #ffffff14;
+	border: none;
+	height: 35px;
+	width: 305px;
+	padding: 0 11px;
+	color: #fff;
+}
+.yuan{
+	font-family: Segoe UI;
+	font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 35px;
+	letter-spacing: 0px;
+	color: #c1c1c1;
+	margin-left: 9px
+}
+.chongzhilogo_src{
+	display: inline-block
+}
+.chongzhijine{
+	margin: 55px 0 
+}
+.xzyhk{
+	margin-top: 55px
+}
+.ljcz .zhihui{
+	cursor: not-allowed;
+}
+.ljcz button{
+	width: 338px;
+	height: 42px;
+	background-color: #ff4a4a;
+	border-radius: 4px;
+	border: 0;
+	color: #fff;
+	margin-left: 119px;
+	margin-top: 55px
+}
+img.isactive{
+	border: solid 1px red
+}
+.tac{
+	text-align: center;
+}
+.skferm{
+	font-family: Segoe UI;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 21px;
+	letter-spacing: 0px;
+	color: #9a9a9a;
+	margin-top: 55px;
+	margin-bottom: 55px;
+}
+.xyb p{
+	background-color: #ff4a4a;
+	border-radius: 4px;
+	color: #fff;
+	height: 41px;
+	line-height: 41px;
+	width: 303px;
+	display: block;
+	margin: 0 auto;
+	margin-top: 55px;
+	cursor: pointer;
+}
+.m55{
+	margin: 55px 0
+}
+.czinfo .rechargeAmount{
+	width:338px ;
+}
+
+.m20{
+	margin: 20px 0
+}
+.ml100{
+	margin-left: 119px;
+	width: 227px;
+    height: 98px;
+    box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.11);
+    border-radius: 5px;
+	padding: 6px 9px 0 16px;
+	background: #48505e;
+	padding-top: 35px;
+}
+.ml100 a {
+	font-family: PingFang SC;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 22px;
+    letter-spacing: 0px;
+    color: #fff;
+    margin-left: 47px;
+    margin-top: 33px;
+    cursor: pointer;
+}
+.cash_notes{
+	display: inline-block;
+	width: 16.6%;
+    background: #192234;
+    padding: 30px;
+	margin-left: 4px;
+}
+.cash_notes .title{
+	font-family: Segoe UI;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 21px;
+	letter-spacing: 0px;
+	color: rgba(255, 255, 255, 0.37);
+}
+.cash_notes p{
+	font-family: Segoe UI;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 19px;
+	letter-spacing: 0px;
+	color: #fff3;
+}
+.w338 {
+	width: 338px;
+}
+.pl100{
+	padding-left: 100px;
+}
+p.erjititle{
+	font-size: 14px;
+    margin-top: 28px;
+    color: #fff6;
+}
+.offlinePaymentType input::-webkit-input-placeholder {color:#999}
+		
+　　.offlinePaymentType input:-moz-placeholder {color:#999}
+		
+　　.offlinePaymentType input::-moz-placeholder {color:#999}
+		
+　　.offlinePaymentType input:-ms-input-placeholder {color:#999}
+
+.pl117{
+	padding-left: 121px;
+	color: hsla(0, 0%, 100%, 0.5);
+	cursor: pointer;
+}
+.rebinding-menu {
+	background-color: #fff;
+	height: 80px;
+	width: 100%;
+	line-height: 80px;
+	border-bottom: solid 1px #d5d5d5;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
+	margin-bottom: 14px;
+	z-index: 1100
+}
+
+.rebinding-menu .logo {
+	float: left
+}
+
+.rebinding-menu .rebinding-btn {
+	float: right
+}
+
+.rebinding-btn button {
+	width: 80px;
+	height: 40px;
+	background-color: #39f;
+	color: #fff;
+	border-radius: 6px
+}
+
+.rebinding-box .box-title {
+	width: 500px;
+	margin: 60px auto;
+	text-align: center
+}
+
+.rebinding-box .box-title i {
+	font-size: 12px;
+	color: #999
+}
+
+.rebinding-box .box-timeline {
+	width: 575px;
+	margin: 0 auto;
+	text-align: center
+}
+
+.rebinding-box .box-timeline ul li {
+	float: left;
+	font-size: 14px;
+	color: #999;
+	width: 100px;
+	position: relative;
+	margin-right: 105px
+}
+.rebinding-box .box-timeline ul .nmr{
+	margin-right: 0;
+}
+
+.rebinding-box .box-timeline .outside1ab {
+	width: 38px;
+	height: 38px;
+	background-color: #d7d7d717;
+	border-radius: 50%;
+	line-height: 38px;
+	margin: 10px auto;
+	display: flex;
+	display: -webkit-flex;
+	align-items: center
+}
+
+.rebinding-box .box-timeline .outside2a {
+	width: 38px;
+	height: 38px;
+	background-color: #d7d7d717;
+	border-radius: 50%;
+	line-height: 38px;
+	margin: 10px auto;
+	display: flex;
+	display: -webkit-flex;
+	align-items: center
+}
+
+.rebinding-box .box-timeline .outside1ab:before {
+	content: "";
+	position: absolute;
+	height: 1px;
+	width: 105px;
+	background-color: #404040;
+	top: 48px;
+	right: 71px;
+	z-index: 2
+}
+
+.rebinding-box .box-timeline .outside1ab:after {
+	content: "";
+	position: absolute;
+	height: 1px;
+	width: 105px;
+	background-color: #404040;
+	top: 48px;
+	left: 71px;
+	z-index: 2
+}
+
+.rebinding-box .box-timeline .outside2a:before {
+	content: "";
+	position: absolute;
+	height: 1px;
+	width: 105px;
+	background-color: #404040;
+	top: 48px;
+	right: 71px;
+	z-index: 2
+}
+
+.rebinding-box .box-timeline div[class*=box-num] {
+	width: 26px;
+	height: 26px;
+	line-height: 26px;
+	margin: 14px auto;
+	border-radius: 50%;
+	background-color: #39f;
+	color: #fff
+}
+
+.rebinding-box .box-timeline .outside1ab .num2ab {
+	background-color: #999
+}
+
+.rebinding-box .box-timeline .outside2a .num3a {
+	background-color: #999
+}
+
+.rebinding-box .box-timeline ul .box-num1 {
+	background-color: #39f
+}
+
+.rebinding-box .box-timeline .box-num2,
+.rebinding-box .box-timeline .box-num3 {
+	margin-left: 45px
+}
+
+.rebinding-box .box-timeline .box-num1:after {
+	content: "";
+	position: absolute;
+	height: 1px;
+	width: 105px;
+	background-color: #39f;
+	top: 48px;
+	left: 71px
+}
+
+.rebinding-box .box-timeline .num2ab:before {
+	content: "";
+	position: absolute;
+	height: 1px;
+	width: 105px;
+	background-color: #39f;
+	top: 48px;
+	right: 71px
+}
+
+.rebinding-box .box-timeline .num2ab:after {
+	content: "";
+	position: absolute;
+	height: 1px;
+	width: 105px;
+	background-color: #39f;
+	top: 48px;
+	left: 71px
+}
+
+.rebinding-box .box-timeline .num3a:before {
+	content: "";
+	position: absolute;
+	height: 1px;
+	width: 105px;
+	background-color: #39f;
+	top: 48px;
+	right: 71px
+}
+
+.rebinding-box div[class*=box-form] {
+	width: 370px;
+	margin-top: 130px;
+	position: absolute;
+	left: 41%
+}
+
+.rebinding-box .twobox-form {
+	display: none
+}
+
+.rebinding-box .threebox-form {
+	display: none
+}
+
+.rebinding-box .onebox-form .oneform-label {
+	float: left;
+	display: block;
+	width: 70px;
+	text-align: center;
+	font-size: 14px;
+	height: 40px;
+	line-height: 40px
+}
+
+.rebinding-box .onebox-form .oneform-input {
+	margin-left: 75px
+}
+
+.rebinding-box .onebox-form .oneform-input input {
+	border-radius: 6px;
+	width: 100%;
+	padding-left: 10px
+}
+
+.rebinding-box .onebox-form .oneform-input input::-webkit-input-placeholder {
+	font-size: 14px;
+	color: #999
+}
+
+.rebinding-box .onebox-form .onebtn-box {
+	width: 130px;
+	height: 40px;
+	margin: 30px auto
+}
+
+.rebinding-box .onebox-form .onebtn-box .onebtn {
+	width: 130px;
+	height: 40px;
+	margin: 0 auto;
+	background-color: #39f;
+	color: #fff;
+	border-radius: 6px;
+	font-size: 14px
+}
+
+.rebinding-box .twobox-form label {
+	float: left;
+	display: block;
+	width: 70px;
+	text-align: center;
+	font-size: 14px;
+	height: 40px;
+	line-height: 40px
+}
+
+.rebinding-box .twobox-form .newtel {
+	margin-bottom: 14px
+}
+
+.rebinding-box .twobox-form div[class*=twoform-input] {
+	margin-left: 75px
+}
+
+.rebinding-box .twobox-form input {
+	border-radius: 6px;
+	width: 100%;
+	padding-left: 10px
+}
+
+.rebinding-box .twobox-form .twoform-input2 input {
+	width: 54%
+}
+
+.rebinding-box .twobox-form .sendcode {
+	float: right;
+	width: 35%;
+	height: 40px;
+	margin: 0 auto;
+	background-color: #39f;
+	color: #fff;
+	border-radius: 6px;
+	font-size: 14px;
+	margin-top: -40px
+}
+
+.rebinding-box .twobox-form .twobtn-box {
+	width: 130px;
+	height: 40px;
+	margin: 30px 75px
+}
+
+.rebinding-box .twobox-form .twobtn-box .twobtn {
+	width: 130px;
+	height: 40px;
+	background-color: #39f;
+	color: #fff;
+	border-radius: 6px;
+	font-size: 14px
+}
+
+.rebinding-box .threebox-form .successr .symbol {
+	width: 66px;
+	height: 66px;
+	border: solid 4px #39f;
+	border-radius: 50%;
+	position: relative;
+	margin: 0 auto
+}
+
+.rebinding-box .threebox-form .successr .symbol:before {
+	position: absolute;
+	content: " ";
+	width: 36px;
+	height: 19px;
+	border-left: 4px solid #39f;
+	border-bottom: 4px solid #39f;
+	top: 12px;
+	left: 10px;
+	transform: rotate(-46deg)
+}
+
+.rebinding-box .threebox-form .successr p {
+	font-size: 20px;
+	text-align: center;
+	margin-top: 15px
+}
+
+.rebinding-box .threebox-form .successr button {
+	width: 130px;
+	height: 40px;
+	background-color: #39f;
+	color: #fff;
+	margin: 7% 32%;
+	border-radius: 6px;
+	font-size: 14px
+}
+
+.newtel {
+	margin-bottom: 14px;
+}
+.rebinding-box  .box-timeline{
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
+.box-num1,.box-num2,.box-num3{
+	cursor: pointer;
+}
+.ffffff2e{
+	color: #ffffff2e !important 
+}
+.czinfo .ant-upload{
+	width: 251px;
+    height: 154px;
+    margin: 0 auto;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -ms-border-radius: 3px;
+	border: 1px solid #192234;
+    background: #192234;
+	display: block;
+	padding: 0;
+}
+.czinfo  .ant-upload.ant-upload-select-picture-card > .ant-upload{
+	padding: 0
+}
+.czinfo .ant-upload.ant-upload-select-picture-card:hover{
+	border-color:#192234 ;
+}
+.txcgbox .money{
+	font-family: PingFang SC;
+	font-size: 48px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 67px;
+	color: #ff4a4a;
+}
+.txcgbox{
+	text-align: center
+}
+.asdaasdasd.ant-modal-confirm-success .ant-modal-confirm-body > .anticon{
+	display: none
+}
+.asdaasdasd .ant-modal-confirm-body .ant-modal-confirm-title{
+	text-align: center
+}
+.asdaasdasd .ant-modal-confirm-body .ant-modal-confirm-content{
+	margin-left: 0
+}
+.asdaasdasd .ant-modal-confirm .ant-modal-confirm-btns{
+	float: inherit;
+	text-align: center;
+}
+
+
+
+.box-root-container {
+    display: flex;
+    flex-direction: column
+}
+
+.box-container,
+.box-containers {
+    display: flex;
+    justify-content: center
+}
+
+.box-containers div {
+    border-bottom: 1px solid gray
+}
+
+.box-container div,
+.box-containers div {
+    margin-right: .4rem;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: .6rem
+}
+
+.box-container div {
+    border: 1px solid gray
+}
+
+.box-input {
+    height: 2rem;
+    position: absolute;
+    top: -9999px
+}
+
+.shake {
+    animation: a 1s infinite;
+    -webkit-animation: a 2.2s infinite
+}
+
+@keyframes a {
+    0% {
+        opacity: .8
+    }
+
+    25% {
+        opacity: .6
+    }
+
+    50% {
+        opacity: .2
+    }
+
+    75% {
+        opacity: .6
+    }
+
+    to {
+        opacity: .8
+    }
+}
+.myzjmm .anticon-question-circle{
+	display: none
+}
+.myzjmm.ant-modal-confirm-success .ant-modal-confirm-body > .anticon{
+	display: none
+}
+.myzjmm .ant-modal-confirm-body .ant-modal-confirm-title{
+	text-align: center;
+	margin-bottom: 20px
+}
+.myzjmm .ant-modal-confirm-body .ant-modal-confirm-content{
+	margin-left: 0
+}
+.myzjmm .ant-modal-confirm-body-wrapper .ant-modal-confirm-btns{
+	float: inherit;
+	text-align: center; 
+}
+.asdaasdasd .anticon {
+	display: none
+}
+.asdaasdasd .ant-modal-confirm .ant-modal-confirm-btns{
+	text-align: center;
+	float: initial
+}
+.czinfobox h2{
+	color: rgba(255, 255, 255, 0.7);
+    font-weight: 500;
+    font-size: 31px;
+}

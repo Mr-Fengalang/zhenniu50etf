@@ -1,0 +1,137 @@
+.left{
+    float: left;
+}
+.right1 {
+    float: right;
+    position: relative;
+}
+.loginnwe{
+    margin-top: 60px;
+    margin-bottom: 276px;
+}
+
+.lh30px{
+    line-height: 30px
+}
+.logonnewbox{
+    width: 396px;
+    padding: 0 40px;
+    border: solid 2px #f4f4f4;
+    height: 400px;
+}
+.logonnewbox1{
+    width: 382px;
+    padding: 0 40px;
+    border: solid 2px #f4f4f4;
+    height: 460px;
+}
+.pl40{
+    padding-left: 40px;
+    border-color: #f4f4f4
+}
+.pre{
+    position: relative;
+}
+.pab{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    z-index: 9;
+}
+.logonnewboxtitle{
+    text-align: center
+}
+.logonnewboxtitle p{
+
+	font-family: PingFangSC-Medium;
+	font-size: 22px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 77px;
+	letter-spacing: 0px;
+	color: #666666;
+}
+.mtp28{
+    margin-top: 28px;
+    margin-bottom: 15px;
+}
+.Log_but button.desabled{
+    background:#ddd;
+    cursor: pointer;
+}
+.Log_but button {
+    width: 100%;
+    background: #ff5d5b;
+    border-radius: 4px;
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    display: block;
+    margin-top: 8px;
+    border: 0;
+    height: 34px;
+}
+.forgnew {
+    text-align: right;
+    font-family: PingFangSC-Medium;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 27px;
+    letter-spacing: 0px;
+    color: #ff4a4a;
+    display: inline-block;
+    cursor: pointer;
+}
+.tar{
+    text-align: center;
+    margin-top: 30px;
+}
+.logonnewbox.registbox{
+    height:516px;
+}
+.sms{
+    background: #ff5d5b;
+    color: #fff;
+    cursor: pointer;
+}
+.forget p {
+    display: inline-block;
+    font-family: PingFang SC;
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 17px;
+	letter-spacing: 0px;
+}
+.forget a{
+	color: #cfcfcf;
+
+}
+.forget {
+    margin-bottom: 24px;
+}
+.erji{
+    font-family: PingFang SC;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 22px;
+	letter-spacing: 0px;
+    color: #989898;
+    text-align: center
+}
+.logimgbox{
+	width: 55%;
+}
+.logimgbox img{
+    width: 100%;
+}
+.checkbox{
+    margin: 4px 4px 0 0;
+    height: 15px;
+    vertical-align: text-top;
+    width: 14px;
+    cursor: pointer;
+    display: inline
+}

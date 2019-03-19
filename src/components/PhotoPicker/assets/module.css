@@ -1,0 +1,28 @@
+.assets_file_input {
+    position: absolute;
+    display: block;
+    left: 41.5%;
+    width: 251px;
+    height: 154px;
+    margin: 0 auto;
+    transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    opacity: 0;
+    display: block;
+}
+.assets_add_photo img {
+    width: 251px;
+    height: 154px;
+    margin: 0 auto;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border: 1px solid #6d6d75;
+    background: #dcdcdc;
+    display: block;
+}

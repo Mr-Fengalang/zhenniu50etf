@@ -1,0 +1,21 @@
+.infotitle .shu{
+    width: 2px;
+	height: 20px;
+    background-color: #48505f;
+    display: inline-block;
+    margin-left: 25px
+}
+.order .infotitle p{
+    display: inline-block;
+    color: #8d8d8d;
+    cursor: pointer;
+}
+.order .infotitle .active{
+    color: #fff;
+}
+
+.infotitle p{
+    /* padding-bottom: 15px; */
+    display: flex;
+    align-items: center;
+}

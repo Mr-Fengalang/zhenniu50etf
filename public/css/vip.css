@@ -1,0 +1,154 @@
+.lefttop{
+	height: 500px;
+	background: #fff;
+	margin-top: 10px;
+	padding-top: 62px;
+	box-sizing: border-box;
+}
+.vipmain .lfet{
+	padding-right: 10px;
+	margin-bottom: 108px;
+}
+.leftbtm{
+	background: #fff;
+	height: 839px;
+	margin-top: 10px;
+}
+.vipmain{
+	background:#f0f2f5 ;
+}
+.vipmain .right{
+	background: #fff;
+	height: 1348px;
+	margin-top: 10px;
+}
+.tubi ul li {
+	float: left;
+	margin-right: 36px;
+}
+.tubi ul li img{
+	height: 46px;
+}
+.tubi{
+
+	margin-left: 136px;
+}
+.lefttopmain{
+	width: 334px;
+	height: 248px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 51px;
+}
+.zhyy{
+		font-family: PingFangSC-Bold;
+	font-size: 25px;
+	color: #666666;
+}
+.money,.qian{
+		font-family: PingFangSC-Bold;
+	font-size: 37px;
+	color: #f04844;
+}
+.money{
+	margin-top: 29px;
+	margin-bottom: 74px;
+}
+
+.lefttopmain .btn{
+		width: 303px;
+	height: 62px;
+	background-color: #f04844;
+	box-shadow: 0px 7px 32px 0px 
+		rgba(255, 0, 0, 0.1);
+	border-radius: 4px;
+	color: #fffefe;
+	font-size: 30px;
+}
+#type{
+	width: 179px;
+}
+.leftbtm .btn{
+	font-size: 20px;
+		width: 129px;
+	height: 36px;
+	background-color: #f04844;
+	border-radius: 4px;
+	border: solid 1px #dddddd;
+	color: #fefefe;
+	padding: 0;
+}
+tr th{
+		background-color: #dddddd;
+	border: solid 1px #dddddd;
+	text-align: center;
+}
+tr td{
+	text-align: center;
+}
+.leftbtm .form-inline{
+
+	margin-bottom: 51px;
+}
+.leftbtm .form-inline input,.leftbtm .form-inline select{
+	width: 164px;
+}
+.leftbtm{
+	padding: 0 23px;
+	
+	padding-top: 51px;
+	box-sizing: border-box;
+	padding-right: 0;
+
+}
+.vipmain .right .title{
+		font-family: PingFangSC-Bold;
+	font-size: 21px;
+	line-height: 28px;
+	color: #666666;
+	margin-top: 45px;
+	letter-spacing :2px
+}
+.vipmain .right .neir{
+	font-family: PingFangSC-Medium;
+	font-size: 16px;
+	line-height: 28px;
+	color: #666666;
+	margin-top: 27px;
+	letter-spacing :2px
+}
+.congz .icon{
+	color: #f04844;
+	font-size: 24px;
+}
+.glyphicon-arrow-left:before{
+	margin-right: 20px;
+}
+.glyphicon-arrow-left:hover{
+	cursor: pointer;
+}
+.congz  .form-inline {
+    margin-top: 73px;
+
+    margin-bottom: 51px;
+}
+.zhifutongdfao ul li {
+	float: left;
+	width: 17.2%;
+	background-color: #ebebeb;
+	border-radius: 2px;
+	border: solid 1px #dddddd;
+	height: 50px;
+	margin-right: 25px;
+	margin-bottom: 20px;
+}
+
+.zhifutongdfao ul {
+	margin-top: 50px;
+}
+
+.ljzf{
+	    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+}

@@ -1,0 +1,620 @@
+p{
+    margin: 0;
+}
+
+.infoleft{
+    background: #192234;
+    height: 860px;
+    width: 4.75%;
+    min-height: 917px
+}
+.infoleft_list a{
+    text-decoration: none
+}
+
+.infoleft_list .active img{
+    opacity: 0.7;
+}
+.infoleft_list .active p{
+    color: rgba(255, 255, 255, 0.7); 
+}
+.infoleft_list img{
+    margin: 0 auto;
+    display: block;
+    opacity: 0.3;
+}
+.infoleft_list li:hover {
+    background: rgba(255, 255, 255, 0.07); 
+}
+.infoleft_list p{
+    font-family: Segoe UI;
+	font-size: 10px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 14px;
+	letter-spacing: 0px;
+    color: rgba(255, 255, 255, 0.3);
+    text-align: center
+}
+.infoleft_list li {
+    height: 70px;    
+    padding-top: 13px
+}
+.infoleft_list .active li{
+    border-left: 5px solid #ff4a4a;
+    background: rgba(255, 255, 255, 0.07); 
+}
+.infotitle{
+	height: 62px;
+	background-color: #192234;
+}
+.w9525{
+    margin-left: 4px;
+    width: 94%;
+    position: relative;
+}
+.e31{
+    background: #131e31;
+    min-width: 1024px;
+}
+
+.infotitle p{
+    font-family: PingFang SC;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 22px;
+	letter-spacing: 0px;
+    color: #ffffff;
+    margin-left: 25px;
+    line-height: 55px;
+    margin-bottom: 0;
+    float: left;
+}
+.infotitle button{
+    float: right
+}
+.infobox828{
+    padding-left: 57px;
+}
+.infobox828 p{
+    display: inline-block;
+    font-family: PingFang SC;
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color: #afafaf;
+}
+.infobox828 p span{
+    color: #ff4a4a;
+    margin: 0 55px 0 14px
+}
+.infobox828 {
+	height: 40px;
+	background-color: #192234;
+    border: solid 1px #2d37488a;
+    border-bottom: none
+}
+.infobox{
+    background: #192234;
+    padding-top: 16px;
+    padding-left: 28px;
+    margin-top: 4px;
+    min-height: 847px
+}
+.buyandsell p ,.ant-select{
+    display: inline-block;
+}
+.buyandsell p{
+    width: 45%;
+    text-align: center;
+    font-family: PingFang SC;
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+    letter-spacing: 0px;
+    border: solid 1px #2d37488a;
+    border-bottom: none
+}
+.buyandsell .ant-select-selection{
+    background: #192234;
+    border: none;
+    border-top: solid 1px #2d37488a;
+
+}
+.buyandsell .ant-select-selection-selected-value{
+    font-family: PingFang SC;
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color: #ff4a4a;
+}
+.ant-select-arrow{
+    color: #ff4a4a;
+    margin-top: -1px;
+}
+.buyandsell .ant-select-selection__rendered{
+    line-height: 40px
+}
+.buyandsell .buy{
+    color: #ff4a4a;
+}
+.buyandsell .sell {
+    color: #34cc23;
+}
+.ant-select-open .ant-select-selection{
+    border: 0;
+    box-shadow: 0
+}
+
+.ant-select.ant-select-enabled{
+    width: 10%;
+}
+.ant-table-thead > tr > th, .ant-table-tbody > tr > td,.ant-table-thead > tr > th{
+	text-align: center
+}
+.ant-table-thead > tr, .ant-table-tbody > tr{
+    height: 40px;
+    background: #192234
+}
+.ant-table-thead > tr > th, .ant-table-tbody > tr > td{
+    padding: 0
+}
+.ant-table-thead > tr > th div, .ant-table-tbody > tr > td span,.ant-table-tbody > tr > td{
+    line-height: 40px;
+    color: #ffffff8c
+}
+.ant-table-thead > tr > th{
+    background: #192234
+}
+.ant-table-tbody > tr > td,.ant-table-thead > tr > th{
+    border-bottom: 0.5px solid #2d37488a;
+}
+.ant-table-thead > tr > th{
+    border-top: 0.5px solid #2d37488a;
+}
+.ant-table-wrapper{
+    border-left: 0.5px solid #2d37488a;
+    border-right: 0.5px solid #2d37488a;
+}
+.ant-table-thead > tr.ant-table-row-hover:not(.ant-table-expanded-row) > td, .ant-table-tbody > tr.ant-table-row-hover:not(.ant-table-expanded-row) > td, .ant-table-thead > tr:hover:not(.ant-table-expanded-row) > td, .ant-table-tbody > tr:hover:not(.ant-table-expanded-row) > td{
+    background: hsla(0, 0%, 100%, 0.04);
+}
+.FindTargetListbox{
+    width: 16.6%;
+    background: #192234;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 12px;
+    padding-right: 0;
+    min-height: 917px
+}
+.infocenter.w80{
+    width: 83%;
+}
+.FindTargetListbox .instrumentName{
+    font-family: Segoe UI;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 21px;
+	letter-spacing: 0px;
+	color: rgba(255, 255, 255, 0.8);
+}
+.lastPrice{
+    font-family: PingFang SC;
+	font-size: 18px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 25px;
+	letter-spacing: 0px;
+    display: inline-block;
+    color: #ff4a4a;
+    margin-top: 12px;
+    margin-bottom: 8px;
+}
+.changeValue,.changeRate{
+    font-family: PingFang SC;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 17px;
+	letter-spacing: 0px;
+    color: #ff4a4a;
+    display:inline-block;
+}
+.buyHybidPrice p,.sellHybidPrice p,.shijia p,.weituo,.yuguzijin p {
+    font-family: PingFang SC;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 17px;
+	letter-spacing: 0px;
+    color: rgba(255, 255, 255, 0.5);
+    margin-bottom: 8px
+}
+.buyHybidPrice p .bidPrice{
+    /* color: #34cc23; */
+}
+
+.buyHybidPrice , .sellHybidPrice{
+    display: inline-block;
+    width: 50%;
+}
+
+.buyHybidPrice p .bidVolume,.sellHybidPrice p .bidVolume{
+    color: #bfbfbf;
+}
+.sellHybidPrice p .bidPrice{
+    /* color: #ff5256; */
+}
+.bidPrice{
+    margin-right: 18%;
+}
+.sellHybidPrice{
+    margin-top: 5px
+}
+.changeRate,.bidVolume{
+    width: 30px;
+    display: inline-block
+}
+.changeValue{
+    display: inline-block;
+    width: 38.06px;
+    margin-left: 9%;
+    margin-right: 15%;
+}
+.ohlclist .openPrice{
+    width: 50%;
+    display: inline-block
+}
+.openPrice span{
+    color: #bfbfbf;
+}
+.openPrice .text{
+    margin-left: 0%;
+    width: 56px;
+    display: inline-block;
+    font-family: PingFang SC;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 17px;
+	letter-spacing: 0px;
+	color: rgba(255, 255, 255, 0.5);
+}
+.openPrice.w100{
+    width: 100%;
+    text-align: left
+}
+.shijia .sj{
+    margin-left: 45%;
+    color: #8a8a8a;
+}
+.shijia{
+    margin-top: 20px
+}
+.weituo .clnum{
+    color: #ff4a4a;
+    margin-left: 3%
+}
+.infotitle .shu{
+    width: 2px;
+	height: 20px;
+    background-color: #48505f;
+    display: inline-block;
+    margin-left: 25px
+}
+.order.infotitle p{
+    display: inline-block;
+    color: #8d8d8d;
+    cursor: pointer;
+}
+.order.infotitle .active{
+    color: #fff;
+}
+
+.infotitle p{
+    /* padding-bottom: 15px; */
+    display: flex;
+    align-items: center;
+}
+.xiadanbtn {
+    margin-top: 3px;
+}
+.ant-table-tbody > tr > td button span{
+    line-height: initial
+}
+.Markettable td span{
+    display: block;
+    cursor: pointer;
+}
+.Markettable{
+    height: 697px;
+    overflow: auto;
+    min-height: 734px
+}
+
+.notclicn{
+    pointer-events: none;
+    /* border-left: 0.5px solid #2d37488a;
+    border-right: 0.5px solid #2d37488a; */
+}
+.ml300{
+    margin-left: 10%;
+    margin-right: 10%;
+    cursor: pointer;
+}
+.fanhuiicon{
+    float: right;
+    font-size: 31px;
+    color: rgba(255, 255, 255, 0.7);;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.shijia p,.weituo p,.yuguzijin p{
+    font-family: Segoe UI;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 21px;
+	letter-spacing: 0px;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 20px;
+}
+.weituo input{
+    width: 80%;
+	height: 35px;
+	background-color: rgba(255, 255, 255, 0.1);
+	border-radius: 5px;
+    border: solid 0px #ebebeb;
+    margin-bottom: 10px;
+}
+.mairu button{
+    width: 80%; 
+	height: 41px;
+	background-color: #ff4a4a;
+    border-radius: 4px;
+    border-color:#ff4a4a
+}
+.ant-table-wrapper{
+    border: none
+}
+.mairu{
+    margin-top: 38px;
+}
+.ant-table-placeholder {
+    position: relative;
+    padding: 16px 16px;
+    background: #192234;
+    border-bottom: none;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    z-index: 1;
+}
+.findtip{
+    font-family: Segoe UI;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 16px;
+	letter-spacing: 0px;
+    color: #ffffff30;
+    margin-top: 40px;
+    padding-right: 40px;
+}
+.markettablebox .ant-table-wrapper{
+    display: inline-block
+}
+.markettablebox .ant-table-wrapper:first-child{
+    width: 45%;
+}
+.markettablebox .ant-table-wrapper:nth-child(2){
+    width: 10%;
+}
+.markettablebox .ant-table-wrapper:nth-child(3){
+    width: 45%;
+}
+.exec .ant-table-tbody > tr:hover:not(.ant-table-expanded-row) > td{
+    background: none
+}
+.ant-btn-primary.disabled, .ant-btn-primary[disabled], .ant-btn-primary.disabled:hover, .ant-btn-primary[disabled]:hover, .ant-btn-primary.disabled:focus, .ant-btn-primary[disabled]:focus, .ant-btn-primary.disabled:active, .ant-btn-primary[disabled]:active, .ant-btn-primary.disabled.active, .ant-btn-primary[disabled].active {
+    color: rgba(255, 255, 255, 0.25);
+    background-color: #f5f5f545;
+    border: none;
+    text-shadow: none;
+    box-shadow: none;
+}
+.weituo input::-webkit-input-placeholder{
+    color: rgba(255, 255, 255, 0.3);
+}
+.weituo .ant-input{
+    color: #fff;
+    font-size: 16px
+}
+.sanfen{
+display: inline-block;
+width: 33.33%;
+text-align: center;
+cursor: pointer;
+
+}
+.ant-select-dropdown{
+    background: hsla(220, 21%, 21%, 1);
+}
+.ant-select-dropdown-menu-item-active{
+    color: rgba(255, 255, 255, 0.5);
+    background-color: #ffffff1f;
+}
+.ant-select-dropdown-menu-item-selected, .ant-select-dropdown-menu-item-selected:hover{
+    color: rgba(255, 255, 255, 0.5);
+    background-color: #ffffff1f;
+}
+.ant-select-dropdown-menu-item{
+    color: rgba(255, 255, 255, 0.22);
+}
+.ant-select-dropdown-menu-item:hover{
+    background-color: #ffffff1f;
+    color: rgba(255, 255, 255, 0.5);
+}
+.ant-select-dropdown-menu-item.ant-select-dropdown-menu-item-selected{
+    color: rgba(255, 255, 255, 0.5);
+
+}
+.reportOrder .ant-btn:hover{
+    background-color: hsla(207, 100%, 65%, 1);
+    border-color: #40a9ff;
+    color: #fff;
+}
+.reportOrder .ant-modal-confirm-title{
+    color: rgba(0, 0, 0, 0.63);
+    font-weight: bold;
+} 
+.reportOrder .ant-modal-confirm-content{
+    margin-top: 16px;
+}
+.reportOrder .ifweituo{
+    margin-top: 17px
+}
+.mairu button:hover{
+    background-color: hsla(0, 100%, 70%, 1);
+}
+.weituo .kakaicang{
+    color: #ffffff5e;
+}
+.ant-table-tbody .clickRowStyl {
+    background: hsla(0, 0%, 100%, 0.04);
+}
+.cpont{
+    cursor: pointer;
+}
+.sanfenbox{
+    position: absolute;
+    width: 100%;
+    bottom: 8px;
+    left: 0;
+    border: solid rgba(255, 255, 255, 0.1)  0.5px;
+    color: rgba(255, 255, 255, 0.3);
+}
+.sanfenbox .page{
+    color: rgba(255, 255, 255, 0.7);
+}
+.borlr{
+    border-left: solid rgba(255, 255, 255, 0.1)  0.5px;
+    border-right: solid rgba(255, 255, 255, 0.1)  0.5px;
+}
+.page3 p{
+    font-family: PingFang SC;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 17px;
+    letter-spacing: 0px;
+    color: rgba(255, 255, 255, 0.5);
+    margin-bottom: 15px;
+}
+.page3 .instrumentName{
+    margin-bottom: 27px;
+}
+
+.page3 .page2span{
+    display: inline-block;
+    color: #bfbfbf;
+}
+.page3 .page2span1{
+    display: inline-block;
+    width: 30%;
+    text-align: center
+}
+.markettablebox .rengou tr.active{
+    background: rgba(255, 102, 102, 0.1);
+    animation: showObscurationUp 0.5s  infinite;
+    -moz-animation: showObscurationUp 0.5s  infinite;	/* Firefox */
+    -webkit-animation: showObscurationUp 0.5s infinite;	/* Safari 和 Chrome */
+    -o-animation: showObscurationUp 0.5s infinite;
+    }
+@keyframes showObscurationUp
+{
+from {background: rgba(255, 102, 102, 0.1)}
+to {background: #192234;}
+}
+
+
+.markettablebox .rengu tr.active{
+    background: rgba(4, 207, 88, 0.1);
+    animation: showObscurationDown 0.5s  infinite;
+    -moz-animation: showObscurationDown 0.5s  infinite;	/* Firefox */
+    -webkit-animation: showObscurationDown 0.5s infinite ;	/* Safari 和 Chrome */
+    -o-animation: showObscurationDown 0.5s infinite;
+}
+@-moz-keyframes showObscurationUp /* Firefox */
+{
+    from { background: rgba(255, 102, 102, 0.1)}
+    to {background: #192234;}
+}
+
+@-webkit-keyframes showObscurationUp /* Safari 和 Chrome */
+{
+    from {background: rgba(255, 102, 102, 0.1)}
+    to {background: #192234;}
+}
+
+@-o-keyframes showObscurationUp /* Opera */
+{
+    from {background: rgba(255, 102, 102, 0.1)}
+    to {background: #192234;}
+}
+.ant-table-tbody > tr > td .notclicn {
+    color: #97d5ff;
+}
+@keyframes showObscurationDown
+    {
+    from {background: rgba(4, 207, 88, 0.1)}
+    to {background: transparent}
+    }
+
+@-moz-keyframes showObscurationDown /* Firefox */
+{
+    from { background: rgba(4, 207, 88, 0.1)}
+    to {background: transparent}
+}
+
+@-webkit-keyframes showObscurationDown /* Safari 和 Chrome */
+{
+    from {background: rgba(4, 207, 88, 0.1)}
+    to {background: transparent}
+}
+
+@-o-keyframes showObscurationDown /* Opera */
+{
+    from {background: rgba(4, 207, 88, 0.1)}
+    to {background: transparent}
+}
+
+.ant-table-tbody > tr > td .zhang{
+    color: #ff4a4a;
+}
+.ant-table-tbody > tr > td .die{
+    color: green;
+}
+.f4f{
+    color: #ffffff4f;
+    cursor: pointer;
+}
+.weinhao .ant-tooltip-inner{
+    background: #192234;
+    color: #8a8a8a;
+}
+.disblaynone{
+    display: none
+}
+.jiagechange span.ant-radio + *{
+    color: #8a8a8a;
+}

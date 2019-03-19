@@ -1,0 +1,320 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+li	{
+	list-style-type:none;
+}
+
+/* HTML5 display-role reset for older browsers */
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+
+ol,
+ul {
+	list-style: none;
+}
+
+blockquote,
+q {
+	quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.clearfloat:after {
+	display: block;
+	clear: both;
+	content: "";
+	visibility: hidden;
+	height: 0
+}
+
+.clearfloat {
+	zoom: 1
+}
+
+.lfet {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+body{
+	min-width: 1024px !important
+}
+.contenner{
+	min-width: 1024px;
+	margin: 0 auto;
+	width: 98%;
+}
+
+.top .contenner {
+	height: 60px;
+	
+}
+.top{
+	background: #131e31
+}
+
+.navr li {
+	float: left;
+}
+
+.navr li a ,.navr li button{
+	line-height: 32px;
+	padding: 0 27px;
+	font-family: PingFangSC-Medium;
+	font-size: 18px;
+	color: #fff;
+	border-radius: 2px;
+}
+
+.right li {
+	display: inline-block;
+	padding-top: 18px;
+	margin-left: 24px;
+}
+.right .avator{
+	margin-top: 0;
+	padding: 0;
+}
+
+.home {
+	background: #1f131d;
+}
+.top ul {
+	margin: 0;
+	padding: 0;
+}
+.top a,.top p{
+	font-size: 16px;
+	color: #fff;
+	margin: 0;
+}
+
+.navr li .vip {
+	color: #666666;
+}
+
+.navr li .login {
+	padding: 0px 11px;
+	background: red;
+	border: none
+}
+.footer{
+	height: 100px;
+	background: #170d16;
+}
+.footer p{
+	color: #999999;
+	font-family: PingFangSC-Medium;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 100px;
+	letter-spacing: 0px;
+}
+
+.footer .right a{
+	line-height: 100px;
+	color: #999;
+}
+.denglu{
+	width: 434px;
+    height: 449px;
+    position: absolute;
+    top: 97px;
+    right: 0px;
+	background: #fff;
+	z-index: 9;
+}
+.glyphicon-remove{
+	color: #CCCCCC;
+	font-size: 20px;
+	padding: 17px;
+}
+.remom{
+	text-align: right;
+}
+.denglu_title{
+	text-align: center;
+	color: #278dfe;
+}
+.denglu_heng{
+	width: 364px;
+	height: 1px;
+	background: #ddd;
+	display: block;
+	margin: 0 auto;
+	margin-top: 16px;
+	margin-bottom: 36px;
+}
+.exampleInputEmail1{
+	margin: 0 auto;
+	width: 85%;
+	border: 1px solid #278dfe;
+	    padding-left: 38px;
+}
+.dengluinputbox{
+	position: relative;
+}
+.dengluicon{
+	position: absolute;
+    left: 46px;
+    top: 10px;
+	color:#278dfe ;
+}
+.denglu .btn{
+	display: block;
+    background: #278dfe;
+    color: #fff;
+    margin: 0 auto;
+    width: 85%;
+}
+.mt70{
+	margin-bottom: 70px;
+}
+.glyphicon-remove:hover{
+	cursor:pointer
+}
+.err.help-block{
+	width: 85%;
+	margin: 0 auto;
+	color: #a94442;
+}
+.name{
+	line-height: 32px;
+    font-family: PingFangSC-Medium;
+    font-size: 18px;
+    color:#ccc;
+    border-radius: 2px;
+    padding-right: 27px;
+}
+.mr27{
+	margin-right: 27px
+}
+li.xuanz {
+    border: solid 1px red !important;
+}
+.logo img{
+	height: 44px;
+	margin-top: 10px
+}
+.avator img{
+	height: 50px;
+}
+

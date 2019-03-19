@@ -1,0 +1,22 @@
+.ant-select-dropdown--single.ant-select-dropdown{
+    background: #fff;
+}
+.ant-select-dropdown--single .ant-select-dropdown-menu-item-active{
+    color:rgba(0, 0, 0, 0.65);
+    background-color: #ffffff1f;
+}
+.ant-select-dropdown--single .ant-select-dropdown-menu-item.ant-select-dropdown-menu-item-selected, .ant-select-dropdown--single .ant-select-dropdown-menu-item-selected:hover{
+    color:rgba(0, 0, 0, 0.65);
+    background-color: #ffffff1f;
+}
+.ant-select-dropdown--single .ant-select-dropdown-menu-item{
+    color:rgba(0, 0, 0, 0.65);
+}
+.ant-select-dropdown--single .ant-select-dropdown-menu-item:hover{
+    background-color: #ffffff1f;
+    color:rgba(0, 0, 0, 0.65);
+}
+.ant-select-dropdown-menu-item .ant-select-dropdown-menu-item-selected{
+    color:rgba(0, 0, 0, 0.65);
+
+}
